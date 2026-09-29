@@ -65,6 +65,9 @@ I'm always interested in:
 
 Feel free to reach out if you'd like to work together or discuss ideas!
 
+
+Durante o mapeamento de dez perfis de referência no GitHub — incluindo engenheiros seniores e mantenedores de projetos open source na área de Engenharia de Software e Desenvolvimento —, identifiquei que a excelência técnica começa na apresentação visual e documental. O padrão mais comum é o "minimalismo estratégico": Profile READMEs diretos que contam uma breve trajetória profissional, utilizando badges padronizados para a tech stack sem poluir a tela. Nos repositórios fixados, a clareza é inegociável; nomes descritivos como api-gestao-tarefas-python substituem títulos genéricos, e a curadoria destaca apenas projetos com arquitetura bem definida. A prática que mais me inspirou e que apliquei no meu perfil foi o rigor com a documentação interna dos projetos (README.md com guias de instalação, demonstrações visuais do software em funcionamento, licenças explícitas e arquivos .gitignore configurados). Espelhando-me nessas referências, refatorei meu GitHub para que ele deixe de ser apenas um depósito de código e passe a atuar como um verdadeiro portfólio técnico, focando na experiência do recrutador ou desenvolvedor que acessa a minha página.
+
 ---
 
 **Last Updated**: April 24, 2026
