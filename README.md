@@ -48,8 +48,8 @@ I'm committed to writing clean, maintainable code and continuously learning new 
 
 ## 📫 Get In Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: rai134almeidaa@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/ra%C3%AD-caetano-6994b61b1/?lipi=urn%3Ali%3Apage%3Ap_mwlite_feed%3BIpe1n3naSlm8mTZC4v8Fdw%3D%3D
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 - **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
 
